@@ -1,0 +1,144 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+
+
+h1{
+   font-size: 562%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+
+}
+
+h2{
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66bfbf;
+    padding-bottom: 10px;
+}
+
+h3{
+
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+p{
+    line-height: 2;
+}
+
+.top-container{
+background-color: #e4f9f5;
+position: relative;
+padding-top: 100px;
+
+}
+.middle-container{
+   padding:100px 0;
+}
+.bottom-container{
+   background-color:#66bfbf ;
+   padding: 5px 5px;
+   
+
+}
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.profile-pic{
+    
+    width: 25%;
+border-radius: 50%;
+
+}
+.skill-row{
+ text-align: left;
+   width: 50%; 
+   margin: 100px auto 100px auto;
+   
+}
+.skill1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+hr{
+    
+  
+
+margin-bottom: 100px;
+    border: none;
+    border-top: 5px dotted #eaf6f6;
+    color: #fff;
+    background-color: #fff;
+    height: 1px;
+    width: 5%;
+    
+    
+}
+
+.contact-message{
+    width: 30%;
+    margin: 40px auto 60px;
+}
+
+
+
+.btn {
+    margin-top: 30px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    padding: 10px;
+    background-color: #66BFBF;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ .btn:hover{
+     color: #11999e;
+ }
+ a{
+     color: #FFFFFF;
+     font-family: 'Montserrat', sans-serif;
+     margin:30px 10px;
+     text-decoration: none;
+     font-weight: 700;
+ }
+
+ a:hover{
+     color:#eaf6f6;
+ }
+
+ .credits{
+     color: #eaf6f6;
+     font-size: 0.75rem;
+ }
